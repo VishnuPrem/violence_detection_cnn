@@ -7,12 +7,12 @@ The [**dataset**](https://www.kaggle.com/mohamedmustafa/real-life-violence-situa
 The videos from the violence class includes violent interactions between people in different setting like street fights and physical altercations during sports games. The non violence class has videos of people in taking part in various activities that are non violent.
 
 <p align="center"> 
-<img src="/img/img3.jpg" width = "400"/>
+<img src="/img/img3.png" width = "400"/>
 </p> 
 Here are some examples from the violence class.
 
 <p align="center"> 
-<img src="/img/img4.jpg" width = "400"/>
+<img src="/img/img4.png" width = "400"/>
 </p> 
 And these are some examples from the non-violence class.
 
@@ -21,7 +21,7 @@ And these are some examples from the non-violence class.
 Since the dataset consists of raw videos, some processing was done to make it useful for training:
 
 <p align="center"> 
-<img src="/img/img1.jpg" width = "400"/>
+<img src="/img/img1.png" width = "400"/>
 </p> 
 
 1. 10 frames are extracted from the middle second in the video
@@ -34,6 +34,6 @@ Since the dataset consists of raw videos, some processing was done to make it us
 The CNN has the dual stream architecture described in this [**journal paper**](https://arxiv.org/pdf/1406.2199.pdf) where the spatial stream takes the first frame and the termporal stream takes the optical flow data as the input.
 
 <p align="center"> 
-<img src="/img/img2.jpg" width = "400"/>
+<img src="/img/img2.png" width = "400"/>
 </p> 
 
